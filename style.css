@@ -1,0 +1,9 @@
+h1 {
+    color: hsl(280, 61%, 35%);
+}
+
+#increase-number-button {
+    min-width: 100px;
+    min-height: 50px;
+    font-size: 18px;
+}

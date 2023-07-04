@@ -9,6 +9,10 @@ This is a demonstration of how you can browse web pages on your local file syste
 
 That's it.
 
+I've tested this on my Windows machine, using Firefox, Google Chrome, and Microsoft Edge.
+
+If this doesn't work in a specific browser or on a specific operating system, I'd appreciate if you sent me a message about it, so I can know in what contexts this doesn't work.
+
 ## Why does this matter?
 
 Assuming you know how to do web development:
